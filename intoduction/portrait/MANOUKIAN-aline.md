@@ -9,6 +9,10 @@ Exemple d'art qui m'inspire:
 
 <img width="677" height="1000" alt="image" src="https://github.com/user-attachments/assets/1479821b-25e1-4a9a-99f4-077be680cbc2" />
 
+---
+
+<img width="600" height="1054" alt="image" src="https://github.com/user-attachments/assets/e75d4033-b83c-46fb-bd50-e771e1dcaebd" />
+
 
 ---
 
@@ -23,5 +27,8 @@ le style artistique ar deco m'inspire à cause de la simplisité du style
 <img width="1320" height="1080" alt="image" src="https://github.com/user-attachments/assets/53d3092c-a6a6-46e9-92fa-dc7924b17c48" />
 
 
+## Exemple d'exposition qui m'inspiré
 
- 
+
+
+
