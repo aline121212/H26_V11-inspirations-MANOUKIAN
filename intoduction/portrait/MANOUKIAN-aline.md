@@ -19,13 +19,10 @@ le style artistique ar deco m'inspire à cause de la simplisité du style
 
 ---
 
+## Mon portrait
 
- Insérer un lien web (et/ou un vidéo) de l'exemple du projet ou exposition qui vous a inspiré.
-
-
-
+<img width="1320" height="1080" alt="image" src="https://github.com/user-attachments/assets/53d3092c-a6a6-46e9-92fa-dc7924b17c48" />
 
 
 
-
-
+ 
