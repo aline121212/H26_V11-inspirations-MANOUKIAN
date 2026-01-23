@@ -1,1 +1,1 @@
-ce dossier contien un photo pour mon protrait
+ce dossier contien les photos pour mon protrait
