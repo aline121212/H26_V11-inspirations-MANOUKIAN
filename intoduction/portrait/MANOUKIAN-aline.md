@@ -26,9 +26,9 @@ le style artistique ar deco m'inspire à cause de la simplisité du style
 
 <img width="1320" height="1080" alt="image" src="https://github.com/user-attachments/assets/53d3092c-a6a6-46e9-92fa-dc7924b17c48" />
 
+---
 
 ## Exemple d'exposition qui m'inspiré
 
-
-
+<img width="873" height="573" alt="image" src="https://github.com/user-attachments/assets/6a293b84-435a-47c2-9d9c-0bee18a0989d" />
 
