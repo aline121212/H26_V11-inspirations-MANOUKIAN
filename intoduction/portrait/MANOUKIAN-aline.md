@@ -9,7 +9,6 @@ Exemple d'art qui m'inspire:
 
 <img width="677" height="1000" alt="image" src="https://github.com/user-attachments/assets/1479821b-25e1-4a9a-99f4-077be680cbc2" />
 
-<img width="477" height="685" alt="image" src="https://github.com/user-attachments/assets/99e23966-b7ed-4047-b842-0d394c57e0fc" />
 
 ---
 
