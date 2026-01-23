@@ -1,18 +1,30 @@
 # Aline Manoukian
 
 ## **Intérêts dans le multimedia**
-Dans le multimédia j'aime faire de la montage et j'aime aussi faire l'art numérique avec photoshop pour exprimer ma créativité. 
+Dans le multimédia j'aime faire de la montage et j'aime aussi faire l'art numérique avec photoshop pour exprimer ma créativité. Un projet mulimédia que je voudais faire, c'est un projet intéractive ou je pourais projeter une éxpérience peut étre sur un bâtiment. 
+
+---
 
 Exemple d'art qui m'inspire:
 
 <img width="677" height="1000" alt="image" src="https://github.com/user-attachments/assets/1479821b-25e1-4a9a-99f4-077be680cbc2" />
 
+<img width="477" height="685" alt="image" src="https://github.com/user-attachments/assets/99e23966-b7ed-4047-b842-0d394c57e0fc" />
+
+---
+
+le style artistique ar deco m'inspire à cause de la simplisité du style
+
+ [voici plus d'art deco](https://madparis.fr/1925-2025-One-Hundred-Years-of-Art-Deco)
+
+---
+
+
+ Insérer un lien web (et/ou un vidéo) de l'exemple du projet ou exposition qui vous a inspiré.
 
 
 
 
-
-![photo/image.jpeg width="50" height="100"](https://github.com/aline121212/H26_V11-inspirations-MANOUKIAN/blob/main/intoduction/portrait/photo/Image.jpg?raw=true) 
 
 
 
