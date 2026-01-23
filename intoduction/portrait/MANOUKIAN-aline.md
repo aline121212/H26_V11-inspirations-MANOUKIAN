@@ -12,7 +12,7 @@ Exemple d'art qui m'inspire:
 
 
 
-![photo/image.jpeg width="10" height="10"](https://github.com/aline121212/H26_V11-inspirations-MANOUKIAN/blob/main/intoduction/portrait/photo/Image.jpg?raw=true) 
+![photo/image.jpeg width="50" height="100"](https://github.com/aline121212/H26_V11-inspirations-MANOUKIAN/blob/main/intoduction/portrait/photo/Image.jpg?raw=true) 
 
 
 
