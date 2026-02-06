@@ -1,4 +1,4 @@
-# Exposition Université de Montreal
+# Exposition Devenirs de l'IA
 
 ## Oeuvre: Devenir slop psyop realisme
 
