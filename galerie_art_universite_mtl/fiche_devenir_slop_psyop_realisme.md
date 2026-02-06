@@ -34,14 +34,13 @@ Francisco Gonzalez-Rosas
 
 ### Description de l'œuvre 
 ---
-### Cartel et texte explicatif
-<img width="300" height="400" alt="image" src="https://github.com/user-attachments/assets/37f190ec-c121-4db7-acf1-0125a9291137" />
+# Cartel et texte explicatif
 ---
+![image](https://github.com/user-attachments/assets/37f190ec-c121-4db7-acf1-0125a9291137)
+
+
 
 **Description :**
-[À compléter avec la description du cartel ou du site de l'artiste]
-
-*Source : [Indiquer la source - cartel, site web de l'artiste, etc.]*
 
 
 
