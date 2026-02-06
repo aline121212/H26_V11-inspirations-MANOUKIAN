@@ -9,7 +9,7 @@
 ---
 
 ### Lieu de l'exposition
-**Galerie d'art de l'Université de Montréal**
+Galerie d'art de l'Université de Montréal
 - Adresse : 2940, ch. de la Côte-Sainte-Catherine
 - Ville : Montréal, Québec
 
@@ -22,8 +22,9 @@
 Vendredi 30 janvier 2026
 
 ---
-# Informations sur l'œuvre
 
+# Informations sur l'œuvre
+---
 ### Nom de l'artiste 
 Francisco Gonzalez-Rosas
 
@@ -32,6 +33,16 @@ Francisco Gonzalez-Rosas
 2025-2026
 
 ### Description de l'œuvre 
+
+### Cartel et texte explicatif
+![image](
+> *À ajouter : Photo du cartel*
+
+**Description :**
+[À compléter avec la description du cartel ou du site de l'artiste]
+
+*Source : [Indiquer la source - cartel, site web de l'artiste, etc.]*
+
 
 #### Cartel et texte explicatif
 ![Cartel de l'œuvre](LIEN_VERS_CARTEL)
