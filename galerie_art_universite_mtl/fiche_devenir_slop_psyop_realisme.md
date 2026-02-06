@@ -33,10 +33,10 @@ Francisco Gonzalez-Rosas
 2025-2026
 
 ### Description de l'œuvre 
-
+---
 ### Cartel et texte explicatif
-![image](
-> *À ajouter : Photo du cartel*
+<img width="300" height="400" alt="image" src="https://github.com/user-attachments/assets/37f190ec-c121-4db7-acf1-0125a9291137" />
+---
 
 **Description :**
 [À compléter avec la description du cartel ou du site de l'artiste]
@@ -44,8 +44,5 @@ Francisco Gonzalez-Rosas
 *Source : [Indiquer la source - cartel, site web de l'artiste, etc.]*
 
 
-#### Cartel et texte explicatif
-![Cartel de l'œuvre](LIEN_VERS_CARTEL)
-> *À ajouter : Photo du cartel*
 
 
