@@ -59,6 +59,10 @@ L'œuvre "Devenir slop psyop realisme" est une installation multimédia immersiv
 - Interactive
 
 ##  Fonction du dispositif multimédia
+
+![image](https://github.com/user-attachments/assets/6df26b2a-a24d-4849-b9c6-858a613c9fe9)
+> Écran en arrière de l'oeuvre ou la vidéo se diffuse
+
 ![image](https://github.com/user-attachments/assets/380b4ee6-d15f-479c-bbb6-fa1a09a75dcd)
 > Objets et éléments de l'oeuvre
 
@@ -66,6 +70,9 @@ L'œuvre "Devenir slop psyop realisme" est une installation multimédia immersiv
 
 
 ## Mise en espace
+
+
+
 ![image](https://github.com/user-attachments/assets/68280267-06d3-41ec-8da0-dbf866529131)
 > Croquis de l'oeuvre
 
