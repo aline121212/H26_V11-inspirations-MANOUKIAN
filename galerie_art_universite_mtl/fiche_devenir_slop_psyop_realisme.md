@@ -11,6 +11,8 @@
 ### Lieu de l'exposition
 ![image](https://github.com/user-attachments/assets/c4331ed0-a412-4f9e-b082-83e212d76235)
 
+> Point de vu devant de l'affiche de la galerie de l'université de Montreal
+
 Galerie d'art de l'Université de Montréal
 - Adresse : 2940, ch. de la Côte-Sainte-Catherine
 - Ville : Montréal, Québec
@@ -39,6 +41,8 @@ Francisco Gonzalez-Rosas
 # Cartel et texte explicatif
 ---
 ![image](https://github.com/user-attachments/assets/37f190ec-c121-4db7-acf1-0125a9291137)
+> Cartel descriptive de l'oeuvre
+
 
 **Description :**
 
@@ -56,15 +60,19 @@ L'œuvre "Devenir slop psyop realisme" est une installation multimédia immersiv
 
 ##  Fonction du dispositif multimédia
 ![image](https://github.com/user-attachments/assets/380b4ee6-d15f-479c-bbb6-fa1a09a75dcd)
+> Objets et éléments de l'oeuvre
+
+
 
 
 ## Mise en espace
 ![image](https://github.com/user-attachments/assets/68280267-06d3-41ec-8da0-dbf866529131)
+> Croquis de l'oeuvre
 
 - Installation placée à gauche de l'espace 
 - L'œuvre est sur un mur acroché aux plafon
 
-C'est présentation dense et accumulé d'éléments visuels et physiques. Les objets sont disposés sur plusieurs niveaux grâce aux étagers variées. Les t-shirts et les affiches grand format structurent l'arrière-plan, tandis que les objets plus petits occupent le premier plan. Les éléments lumineux (cercles LED bleus et multicolores) sont au cnetre de l'oeuvre comme une attraction visuelle. Deux écrans sont affiché qui diffusant des contenus vidéo générés par IA. Il y a une projection de vidéo en arrière de l'oeuvre avec deux écouteurs et trois chaises. 
+C'est présentation dense et accumulé d'éléments visuels et physiques. Les objets sont disposés sur plusieurs niveaux grâce aux étagers variées. Les t-shirts et les affiches grand format structurent l'arrière-plan, tandis que les objets plus petits occupent le premier plan. Les éléments lumineux (cercles LED bleus et multicolores) sont au centre de l'oeuvre comme une attraction visuelle. Deux écrans sont affiché qui diffusant des contenus vidéo générés par IA. Il y a une projection de vidéo en arrière de l'oeuvre avec deux écouteurs et trois chaises. 
 
 
 
@@ -92,7 +100,7 @@ C'est présentation dense et accumulé d'éléments visuels et physiques. Les ob
 - Panneaux explicatifs - Texte contextuel sur l'artiste et l'œuvre
   
 ![image](https://github.com/user-attachments/assets/454e6fb4-8614-444e-958b-31968b8589da)
-
+> Chaier d'image de l'oeuvre
 
 ## Expérience vécue
 En entrant dans l’espace, j'ai vu l’œuvre occupé un mur de façon dense et presque chaotique. Je vu beaucoups d,éléments différents: affiches, vêtements, écrans, câbles, lumières, les cercles lumineux LED au centre, qui fonctionnent comme un point d’ancrage visuel. Je me suis assise sur les chaises pour regarder les vidéos diffusées sur les écrans et mettre les écouteurs. L’œuvre m’a donné l’impression d’être à l’intérieur d’un algorithme physique.
