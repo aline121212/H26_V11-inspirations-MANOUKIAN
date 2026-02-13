@@ -87,6 +87,16 @@ C'est présentation dense et accumulé d'éléments visuels et physiques. Les ob
 - Panneaux explicatifs - Texte contextuel sur l'artiste et l'œuvre
 
 ## Expérience vécue
+En entrant dans l’espace, j'ai vu l’œuvre occupé un mur de façon dense et presque chaotique. Je vu beaucoups d,éléments différents: affiches, vêtements, écrans, câbles, lumières, les cercles lumineux LED au centre, qui fonctionnent comme un point d’ancrage visuel. Je me suis assise sur les chaises pour regarder les vidéos diffusées sur les écrans et mettre les écouteurs. L’œuvre m’a donné l’impression d’être à l’intérieur d’un algorithme physique.
+
+## Ce qui m’a plu / m’a donné des idées
+Ce qui m’a particulièrement plu est les objets matériels et contenus numériques. Le mélange de t-shirts, d’affiches imprimées et de vidéos IA crée un aspects intéressant entre culture physique et culture virtuelle. 
+J’ai aussi aimé la densité visuelle et l’accumulation (effet collage / chaos)
+
+## Aspects que je ne retiendrais pas / que je ferais autrement
+Même si la surcharge visuelle était un peu trop, j’ai parfois trouvé l’ensemble trop dense, ce qui rendait difficile à me concentré sur un aspect de l'oeuvre. 
+Si je devais créer une installation similaire, je laisserais plus d’espaces vides pour créer des respirations visuelles. Cela guiderais un peu plus le parcours du visiteur. J’aimerais intégrer une interaction plus active comme toucher, manipuler, déclencher des sons ou des images.
+
 
 
 ### Sources des images et photos
