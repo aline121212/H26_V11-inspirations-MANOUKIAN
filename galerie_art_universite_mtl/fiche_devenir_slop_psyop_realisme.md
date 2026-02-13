@@ -9,6 +9,8 @@
 ---
 
 ### Lieu de l'exposition
+![image](https://github.com/user-attachments/assets/c4331ed0-a412-4f9e-b082-83e212d76235)
+
 Galerie d'art de l'Université de Montréal
 - Adresse : 2940, ch. de la Côte-Sainte-Catherine
 - Ville : Montréal, Québec
