@@ -126,7 +126,7 @@ Si je devais créer une installation similaire, je laisserais plus d’espaces v
 ---
 
 ### Sources des images et photos
-Toutes les photos prises lors de la visite 
+Photos sont prise par moi (Aline Teresa Manoukian)
 
 ### Sites web consultés
 
