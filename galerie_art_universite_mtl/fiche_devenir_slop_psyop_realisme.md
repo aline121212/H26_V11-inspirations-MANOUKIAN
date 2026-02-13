@@ -99,8 +99,11 @@ C'est présentation dense et accumulé d'éléments visuels et physiques. Les ob
 - Cache-fil - les câbles électriques
 - Panneaux explicatifs - Texte contextuel sur l'artiste et l'œuvre
   
+ ![image](https://github.com/user-attachments/assets/975250a9-bb23-48ad-aee5-739f08363662)
+ > Couverture du cahier de l'oeuvre
+
 ![image](https://github.com/user-attachments/assets/454e6fb4-8614-444e-958b-31968b8589da)
-> Chaier d'image de l'oeuvre
+> Image dans le cahier de l'oeuvre
 
 ## Expérience vécue
 En entrant dans l’espace, j'ai vu l’œuvre occupé un mur de façon dense et presque chaotique. Je vu beaucoups d,éléments différents: affiches, vêtements, écrans, câbles, lumières, les cercles lumineux LED au centre, qui fonctionnent comme un point d’ancrage visuel. Je me suis assise sur les chaises pour regarder les vidéos diffusées sur les écrans et mettre les écouteurs. L’œuvre m’a donné l’impression d’être à l’intérieur d’un algorithme physique.
