@@ -59,8 +59,9 @@ L'œuvre "Devenir slop psyop realisme" est une installation multimédia immersiv
 
 
 ## Mise en espace
-**Localisation :**
- - Installation placée à gauche de l'espace 
+![image](https://github.com/user-attachments/assets/68280267-06d3-41ec-8da0-dbf866529131)
+
+- Installation placée à gauche de l'espace 
 - L'œuvre est sur un mur acroché aux plafon
 
 C'est présentation dense et accumulé d'éléments visuels et physiques. Les objets sont disposés sur plusieurs niveaux grâce aux étagers variées. Les t-shirts et les affiches grand format structurent l'arrière-plan, tandis que les objets plus petits occupent le premier plan. Les éléments lumineux (cercles LED bleus et multicolores) sont au cnetre de l'oeuvre comme une attraction visuelle. Deux écrans sont affiché qui diffusant des contenus vidéo générés par IA. Il y a une projection de vidéo en arrière de l'oeuvre avec deux écouteurs et trois chaises. 
