@@ -55,7 +55,8 @@ L'œuvre "Devenir slop psyop realisme" est une installation multimédia immersiv
 - Interactive
 
 ##  Fonction du dispositif multimédia
-![image](https://github.com/aline121212/H26_V11-inspirations-MANOUKIAN/blob/main/galerie_art_universite_mtl/photos/devant_oeuvre.jpg?raw=true)
+![image](https://github.com/user-attachments/assets/380b4ee6-d15f-479c-bbb6-fa1a09a75dcd)
+
 
 ## Mise en espace
 **Localisation :**
