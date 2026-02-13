@@ -112,9 +112,7 @@ Toutes les photos prises lors de la visite
 
 ### Sites web consultés
 
-**Galerie de l'Université de Montréal** : [À compléter]
-
-**Documentation de l'exposition "Devenirs de l'IA"**  : [À compléter]
+**Galerie de l'Université de Montréal** : https://galerie.umontreal.ca/expositions-en-cours.php
 
 
 
