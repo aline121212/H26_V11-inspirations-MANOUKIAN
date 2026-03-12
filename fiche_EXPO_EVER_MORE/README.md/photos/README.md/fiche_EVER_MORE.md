@@ -1,1 +1,0 @@
-Photos de l'exposition
