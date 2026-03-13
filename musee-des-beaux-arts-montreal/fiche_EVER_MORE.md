@@ -71,7 +71,7 @@ L’œuvres de Kurt Hentschläger est basée sur les effets psychologiques dans 
 - Le mur du pavillon (l'écran)
 
 ![image](https://github.com/aline121212/H26_V11-inspirations-MANOUKIAN/blob/main/musee-des-beaux-arts-montreal/photos/projecteur_raproche.jpg)
-> Projection du bâtiment enface
+> Projecteur qui montre 2 vidéos 
   
 ### Croquis de l'oeuvre
 ![image](https://github.com/aline121212/H26_V11-inspirations-MANOUKIAN/blob/main/musee-des-beaux-arts-montreal/photos/croquis_devant.jpg)
