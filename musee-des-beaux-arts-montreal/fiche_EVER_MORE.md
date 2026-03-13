@@ -62,7 +62,7 @@ L’œuvre de Kurt Hentschläger est basée sur les effets psychologiques dans u
 
 ---
 ![image](https://github.com/aline121212/H26_V11-inspirations-MANOUKIAN/blob/main/musee-des-beaux-arts-montreal/photos/projection_loin.jpg)
-> Projection du bâtiment enface
+> Superposition de 2 images afficher sur une fenêtre dans un appartement qui le projette sur le musée des beaux-arts de Montréal
 
 ## Composantes principales :
 - Un projecteur
