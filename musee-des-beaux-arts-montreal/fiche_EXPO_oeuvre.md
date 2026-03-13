@@ -53,7 +53,7 @@ C'est une vidéo de fleurs et de plantes qui est projetée sur le mur extérieur
 - Le mur du pavillon
 - Des câbles
 
-![video](https://github.com/aline121212/H26_V11-inspirations-MANOUKIAN/blob/main/musee-des-beaux-arts-montreal/photos/video_oeuvre.MOV)
+![video](https://github.com/aline121212/H26_V11-inspirations-MANOUKIAN/blob/main/musee-des-beaux-arts-montreal/photos/Video%20Oeuvre.mp4)
 > Diffusion du projection sur le bâtiment
 
 ![image](https://github.com/user-attachments/assets/380b4ee6-d15f-479c-bbb6-fa1a09a75dcd)
