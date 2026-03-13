@@ -63,7 +63,6 @@ C'est une vidéo de fleurs et de plantes qui est projetée sur le mur extérieur
 
 
 
-
 ## Composantes principales :
 - Un projecteur
 - La vidéo
@@ -77,16 +76,16 @@ C'est une vidéo de fleurs et de plantes qui est projetée sur le mur extérieur
 
 
 ## Expérience vécue
-En entrant dans l’espace, j'ai vu l’œuvre occupé un mur de façon dense et presque chaotique. Je vu beaucoups d,éléments différents: affiches, vêtements, écrans, câbles, lumières, les cercles lumineux LED au centre, qui fonctionnent comme un point d’ancrage visuel. Je me suis assise sur les chaises pour regarder les vidéos diffusées sur les écrans et mettre les écouteurs. L’œuvre m’a donné l’impression d’être à l’intérieur d’un algorithme physique.
+Lorsque j'ai vu l'œuvre pour la première fois, j'ai été surprise par la façon dont la projection encadrer parfaitement le bâtiment. J'ai observé les transitions entre différents éléments de la nature des fleurs, des plantes, des formes organiques qui se transformaient lentement les unes dans les autres. ce qui m'a donné l'impression d'être submergée dans la nature. Les images avaient laire réelles mais retravaillées, ce qui créait une atmosphère hypnotisante.
+
+![image](https://github.com/aline121212/H26_V11-inspirations-MANOUKIAN/blob/main/musee-des-beaux-arts-montreal/photos/projecteur_raproche.jpg)
+> Projection du bâtiment enface
 
 ## Ce qui m’a plu / m’a donné des idées
-Ce qui m’a particulièrement plu est les objets matériels et contenus numériques. Le mélange de t-shirts, d’affiches imprimées et de vidéos IA crée un aspects intéressant entre culture physique et culture virtuelle. 
-J’ai aussi aimé la densité visuelle et l’accumulation (effet collage / chaos)
+Ce qui m'a plu c'est la palette de couleurs utilisée dans la projection. J'ai également apprécié la vitesse à laquelle les éléments se transformaient. L'ensemble m'a donné des idées de comment les couleurs peuvent influencer l'émotion ou  l'émotion du spectateur.
 
 ## Aspects que je ne retiendrais pas / que je ferais autrement
-Même si la surcharge visuelle était un peu trop, j’ai parfois trouvé l’ensemble trop dense, ce qui rendait difficile à me concentré sur un aspect de l'oeuvre. 
-Si je devais créer une installation similaire, je laisserais plus d’espaces vides pour créer des respirations visuelles. Cela guiderais un peu plus le parcours du visiteur. J’aimerais intégrer une interaction plus active comme toucher, manipuler, déclencher des sons ou des images.
-
+Même si j'ai trouvé l'œuvre visuellement apaisante, j'aurais aimé qu'elle soit accompagnée d'une musique ambiante pour l'expérience. Un son doux et naturel comme peut étre le vent ou une musique atmosphérique. Selon moi sa aurait été plus complété accompagné par les images. Si je devais créer une installation similaire, j'intégrerais un aspect sonore.
 
 
 
