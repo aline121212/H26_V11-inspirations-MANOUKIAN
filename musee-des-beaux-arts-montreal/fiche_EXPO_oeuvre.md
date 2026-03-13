@@ -56,7 +56,7 @@ C'est une vidéo de fleurs et de plantes qui est projetée sur le mur extérieur
 ![video](https://github.com/aline121212/H26_V11-inspirations-MANOUKIAN/blob/main/musee-des-beaux-arts-montreal/photos/Video%20Oeuvre.mp4)
 > Diffusion du projection sur le bâtiment
 
-![image](https://github.com/user-attachments/assets/380b4ee6-d15f-479c-bbb6-fa1a09a75dcd)
-> Objets et éléments de l'oeuvre
+![image](https://github.com/aline121212/H26_V11-inspirations-MANOUKIAN/blob/main/musee-des-beaux-arts-montreal/photos/projecteur_raproche.jpg)
+> Projection du bâtiment enface
 
   
