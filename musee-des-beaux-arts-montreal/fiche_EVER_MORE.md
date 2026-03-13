@@ -39,7 +39,7 @@ Kurt Hentschläger
 2026
 
 ## Description de l'œuvre  
-L’œuvres de Kurt Hentschläger est basée sur les effets psychologiques dans un paysages 3D. C'est une vidéo 4k qui se joue en loupe chaque 5 minutes. Il y a des fleurs et des plantes en foremes qui est projetée sur le mur extérieur du musée le soir. Il y a un projecteur installé dans un bâtiment en face qui envoie la vidéo sur le mur du bâtimen. Alors, le projecteur (souvent laser ou Xénon) projette la video tandi C'est exactement comme un projecteur de cinéma, au lieu d'un écran blanc c'est le mur du musée qui sert d'écran puis sa tourne en boucle toute la soirée. 
+L’œuvres de Kurt Hentschläger est basée sur les effets psychologiques dans un paysages 3D. C'est une vidéo 4k qui se joue en loupe chaque 5 minutes. Il y a des fleurs et des plantes en foremes qui est projetée sur le mur extérieur du musée le soir. Il y a un projecteur installé dans un bâtiment en face qui envoie la vidéo sur le mur du bâtimen. Alors, le projecteur (souvent laser ou Xénon) projette la video tandi C'est exactement comme un projecteur de cinéma, au lieu d'un écran blanc c'est le mur du musée qui sert d'écran puis sa tourne en boucle toute la soirée. L'artiste avait décrite son ouevre comme « une célébration du monde physique » à cause des l'état de notre environnement en ce moment et aussi de la changement climatique.
 
 ---
 # Cartel et texte explicatif
