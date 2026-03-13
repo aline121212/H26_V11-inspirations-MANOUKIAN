@@ -16,7 +16,7 @@
 > Point de vu devant le bâtiment du Musée des beaux-arts de Montréal.
 
 
-Musée des beaux-arts de Montréal
+### Musée des beaux-arts de Montréal
 - Adresse : 1380, rue Sherbrooke Ouest Montréal (Québec) H3G 1J5
 
 
