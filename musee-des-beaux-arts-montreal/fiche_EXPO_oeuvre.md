@@ -35,9 +35,17 @@ Kurt Hentschläger
 ## Année de réalisation
 2026
 
-### Description de l'œuvre 
+## Description de l'œuvre 
+C'est une vidéo de fleurs et de plantes qui est projetée sur le mur extérieur du musée le soir. Il y a un projecteur  installé dans un bâtiment en face qui envoie la vidéo sur le mur du bâtimen. C'est exactement comme un projecteur de cinéma, au lieu d'un écran blanc c'est le mur du musée qui sert d'écran puis sa tourne en boucle toute la soirée.
 ---
 # Cartel et texte explicatif
 ---
-![image](https://github.com/user-attachments/assets/37f190ec-c121-4db7-acf1-0125a9291137)
+![image](https://github.com/aline121212/H26_V11-inspirations-MANOUKIAN/blob/main/musee-des-beaux-arts-montreal/photos/cartel_explicatif.jpg)
 > Cartel descriptive de l'oeuvre
+
+**Composants**
+- Projecteur vidéo
+- Le mur du pavillon
+- Des câbles
+
+  
