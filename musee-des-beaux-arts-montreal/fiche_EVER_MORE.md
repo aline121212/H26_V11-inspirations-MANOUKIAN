@@ -72,7 +72,7 @@ L’œuvres de Kurt Hentschläger est basée sur les effets psychologiques dans 
 - Logiciel de lecture en boucle automatique(MadMapper)
 
   
-[video du l'exposition] (https://youtu.be/nLDkYak5WUs](https://youtu.be/nLDkYak5WUs)
+[video du l'exposition](https://youtu.be/nLDkYak5WUs](https://youtu.be/nLDkYak5WUs?si=31Qlf0tz-fZaZ1I7))
 > Projection du bâtiment enface
 
 ## Expérience vécue
@@ -87,7 +87,7 @@ Même si j'ai trouvé l'œuvre visuellement apaisante, j'aurais aimé qu'elle so
 ---
 
 ### Références
-- [site web musée des beaux arts de montréal]([https://www.example.com](https://www.mbam.qc.ca/en/exhibitions/kurt-hentschlager-ever-more/)
+- [site web musée des beaux arts de montréal](https://www.mbam.qc.ca/en/exhibitions/kurt-hentschlager-ever-more/)
 - [site Montréal en lumière](https://montrealenlumiere.com/fr/programmation/admirez-la-toile-numerique-ever-more-de-l-artiste-kurt-hentschlager-e007456)
 
 
