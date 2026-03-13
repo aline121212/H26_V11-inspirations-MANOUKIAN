@@ -39,7 +39,7 @@ Kurt Hentschläger
 2026
 
 ## Description de l'œuvre  
-L’œuvres de Kurt Hentschläger est basée sur les effets psychologiques dans un paysages 3D. C'est une vidéo 4k qui se joue en loupe chaque 5 minutes. Il y a des fleurs et des plantes en foremes qui est projetée sur le mur extérieur du musée le soir. Il y a un projecteur installé dans un bâtiment en face qui envoie la vidéo sur le mur du bâtimen. Alors, le projecteur (souvent laser ou Xénon) projette la video tandi C'est exactement comme un projecteur de cinéma, au lieu d'un écran blanc c'est le mur du musée qui sert d'écran puis sa tourne en boucle toute la soirée. L'artiste avait décrite son ouevre comme « une célébration du monde physique » à cause des l'état de notre environnement en ce moment et aussi de la changement climatique.
+L’œuvre de Kurt Hentschläger est basée sur les effets psychologiques dans un paysage 3D. C'est une vidéo 4 K qui se joue en boucle toutes les 5 minutes. Il y a des fleurs et des plantes en forêt qui sont projetées sur le mur extérieur du musée le soir. Il y a un projecteur installé dans un bâtiment en face qui envoie la vidéo sur le mur du bâtiment. Alors, le projecteur (souvent laser ou xénon) projette la vidéo tandis C'est exactement comme un projecteur de cinéma, au lieu d'un écran blanc c'est le mur du musée qui sert d'écran, puis ça tourne en boucle toute la soirée. L'artiste avait décrit son œuvre comme « une célébration du monde physique » à cause de l'état de notre environnement en ce moment et aussi du changement climatique.
 
 ---
 # Cartel et texte explicatif
@@ -71,7 +71,7 @@ L’œuvres de Kurt Hentschläger est basée sur les effets psychologiques dans 
 - Le mur du pavillon (l'écran)
 
 ![image](https://github.com/aline121212/H26_V11-inspirations-MANOUKIAN/blob/main/musee-des-beaux-arts-montreal/photos/projecteur_raproche.jpg)
-> Projecteur qui montre 2 vidéos 
+> Superposition de 2 images afficher sur une fenêtre dans un appartement qui le projette sur le musée des beaux-arts de Montréal
   
 ### Croquis de l'oeuvre
 ![image](https://github.com/aline121212/H26_V11-inspirations-MANOUKIAN/blob/main/musee-des-beaux-arts-montreal/photos/croquis_devant.jpg)
