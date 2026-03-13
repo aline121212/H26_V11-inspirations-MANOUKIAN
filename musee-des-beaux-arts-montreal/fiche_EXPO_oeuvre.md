@@ -4,14 +4,12 @@
 
 
 ![image](https://github.com/aline121212/H26_V11-inspirations-MANOUKIAN/blob/main/musee-des-beaux-arts-montreal/photos/couleur_batiment.jpg)
-
 > Point de vu devant de l'oeuvre *Ever more* devant le bâtiment du Musée des beaux-arts de Montréal.
 
 
 ---
 ## Lieu de l'exposition
 ![image](https://github.com/aline121212/H26_V11-inspirations-MANOUKIAN/blob/main/musee-des-beaux-arts-montreal/photos/sans_couleur_batiment.jpg)
-
 > Point de vu devant le bâtiment du Musée des beaux-arts de Montréal.
 
 Musée des beaux-arts de Montréal
@@ -62,7 +60,6 @@ C'est une vidéo de fleurs et de plantes qui est projetée sur le mur extérieur
 > Projection du bâtiment enface
 
 
-
 ## Composantes principales :
 - Un projecteur
 - La vidéo
@@ -77,14 +74,13 @@ C'est une vidéo de fleurs et de plantes qui est projetée sur le mur extérieur
 - Projecteur vidéo
 - Support/structure pour fixer le projecteur
 - Logiciel de lecture en boucle automatique(MadMapper)
-  
 
+  
+[video du l'exposition] (https://youtu.be/nLDkYak5WUs](https://youtu.be/nLDkYak5WUs)
+> Projection du bâtiment enface
 
 ## Expérience vécue
 Lorsque j'ai vu l'œuvre pour la première fois, j'ai été surprise par la façon dont la projection encadrer parfaitement le bâtiment. J'ai observé les transitions entre différents éléments de la nature des fleurs, des plantes, des formes organiques qui se transformaient lentement les unes dans les autres. ce qui m'a donné l'impression d'être submergée dans la nature. Les images avaient laire réelles mais retravaillées, ce qui créait une atmosphère hypnotisante.
-
-![image]()
-> Projection du bâtiment enface
 
 ## Ce qui m’a plu / m’a donné des idées
 Ce qui m'a plu c'est la palette de couleurs utilisée dans la projection. J'ai également apprécié la vitesse à laquelle les éléments se transformaient. L'ensemble m'a donné des idées de comment les couleurs peuvent influencer l'émotion ou  l'émotion du spectateur.
