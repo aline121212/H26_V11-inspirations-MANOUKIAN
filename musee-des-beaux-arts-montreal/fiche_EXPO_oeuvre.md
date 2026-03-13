@@ -24,3 +24,20 @@ Musée des beaux-arts de Montréal
 
 ## Date de ma visite
 21 février 2026
+
+
+# Informations sur l'œuvre
+---
+## Nom de l'artiste 
+Kurt Hentschläger
+
+
+## Année de réalisation
+2026
+
+### Description de l'œuvre 
+---
+# Cartel et texte explicatif
+---
+![image](https://github.com/user-attachments/assets/37f190ec-c121-4db7-acf1-0125a9291137)
+> Cartel descriptive de l'oeuvre
