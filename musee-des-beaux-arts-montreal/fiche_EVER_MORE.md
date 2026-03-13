@@ -61,15 +61,17 @@ L’œuvres de Kurt Hentschläger est basée sur les effets psychologiques dans 
 - Contemplative
 
 ---
-![image](https://github.com/aline121212/H26_V11-inspirations-MANOUKIAN/blob/main/musee-des-beaux-arts-montreal/photos/projecteur_raproche.jpg)
+![image](https://github.com/aline121212/H26_V11-inspirations-MANOUKIAN/blob/main/musee-des-beaux-arts-montreal/photos/projection_loin.jpg)
 > Projection du bâtiment enface
-
 
 ## Composantes principales :
 - Un projecteur
 - La vidéo
 - Un lecteur de vidéo
 - Le mur du pavillon (l'écran)
+
+![image](https://github.com/aline121212/H26_V11-inspirations-MANOUKIAN/blob/main/musee-des-beaux-arts-montreal/photos/projecteur_raproche.jpg)
+> Projection du bâtiment enface
   
 ### Croquis de l'oeuvre
 ![image](https://github.com/aline121212/H26_V11-inspirations-MANOUKIAN/blob/main/musee-des-beaux-arts-montreal/photos/croquis_devant.jpg)
