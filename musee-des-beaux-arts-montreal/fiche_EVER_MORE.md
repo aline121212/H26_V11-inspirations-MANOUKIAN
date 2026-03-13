@@ -52,10 +52,6 @@ C'est une vidéo de fleurs et de plantes qui est projetée sur le mur extérieur
 ## Type d'installation
 - Contemplative
 
-
-![video](https://github.com/aline121212/H26_V11-inspirations-MANOUKIAN/blob/main/musee-des-beaux-arts-montreal/photos/Video%20Oeuvre.mp4)
-> Diffusion du projection sur le bâtiment
-
 ![image](https://github.com/aline121212/H26_V11-inspirations-MANOUKIAN/blob/main/musee-des-beaux-arts-montreal/photos/projecteur_raproche.jpg)
 > Projection du bâtiment enface
 
@@ -88,7 +84,11 @@ Ce qui m'a plu c'est la palette de couleurs utilisée dans la projection. J'ai �
 ## Aspects que je ne retiendrais pas / que je ferais autrement
 Même si j'ai trouvé l'œuvre visuellement apaisante, j'aurais aimé qu'elle soit accompagnée d'une musique ambiante pour l'expérience. Un son doux et naturel comme peut étre le vent ou une musique atmosphérique. Selon moi sa aurait été plus complété accompagné par les images. Si je devais créer une installation similaire, j'intégrerais un aspect sonore.
 
+---
 
+### Références
+- [site web musée des beaux arts de montréal]([https://www.example.com](https://www.mbam.qc.ca/en/exhibitions/kurt-hentschlager-ever-more/)
+- 
 
 
 
