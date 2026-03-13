@@ -68,17 +68,22 @@ C'est une vidéo de fleurs et de plantes qui est projetée sur le mur extérieur
 - La vidéo
 - Un lecteur de vidéo
 - Le mur du pavillon (l'écran)
+  
+### Croquis de l'oeuvre
+![image](https://github.com/aline121212/H26_V11-inspirations-MANOUKIAN/blob/main/musee-des-beaux-arts-montreal/photos/croquis_devant.jpg)
+> Croquis devant le bâtiment
 
 ## Liste des éléments 
 - Projecteur vidéo
 - Support/structure pour fixer le projecteur
 - Logiciel de lecture en boucle automatique(MadMapper)
+  
 
 
 ## Expérience vécue
 Lorsque j'ai vu l'œuvre pour la première fois, j'ai été surprise par la façon dont la projection encadrer parfaitement le bâtiment. J'ai observé les transitions entre différents éléments de la nature des fleurs, des plantes, des formes organiques qui se transformaient lentement les unes dans les autres. ce qui m'a donné l'impression d'être submergée dans la nature. Les images avaient laire réelles mais retravaillées, ce qui créait une atmosphère hypnotisante.
 
-![image](https://github.com/aline121212/H26_V11-inspirations-MANOUKIAN/blob/main/musee-des-beaux-arts-montreal/photos/projecteur_raproche.jpg)
+![image]()
 > Projection du bâtiment enface
 
 ## Ce qui m’a plu / m’a donné des idées
