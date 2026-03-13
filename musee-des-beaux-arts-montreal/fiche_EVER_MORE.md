@@ -13,6 +13,7 @@
 ![image](https://github.com/aline121212/H26_V11-inspirations-MANOUKIAN/blob/main/musee-des-beaux-arts-montreal/photos/sans_couleur_batiment.jpg)
 > Point de vu devant le bâtiment du Musée des beaux-arts de Montréal.
 
+
 Musée des beaux-arts de Montréal
 - Adresse : 1380, rue Sherbrooke Ouest Montréal (Québec) H3G 1J5
 
@@ -23,6 +24,9 @@ Musée des beaux-arts de Montréal
 
 ## Date de ma visite
 21 février 2026
+
+![image](https://github.com/aline121212/H26_V11-inspirations-MANOUKIAN/blob/main/musee-des-beaux-arts-montreal/photos/lieu_batiment.jpg)
+> Pavillion michal et renata hornstein.
 
 
 # Informations sur l'œuvre
