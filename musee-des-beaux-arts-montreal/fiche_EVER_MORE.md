@@ -75,7 +75,10 @@ L’œuvre de Kurt Hentschläger est basée sur les effets psychologiques dans u
   
 ### Croquis de l'oeuvre
 ![image](https://github.com/aline121212/H26_V11-inspirations-MANOUKIAN/blob/main/musee-des-beaux-arts-montreal/photos/croquis_devant.jpg)
-> Croquis devant le bâtiment
+> Croquis devant le bâtiment du musée ou l'oeuvre est affiché
+
+![image](https://github.com/aline121212/H26_V11-inspirations-MANOUKIAN/blob/main/musee-des-beaux-arts-montreal/photos/croquis_projecteur_appartement.png)
+> Croquis de l'appartement en face du musée qui affiche la video 
 
 ## Liste des éléments 
 - Projecteur vidéo
