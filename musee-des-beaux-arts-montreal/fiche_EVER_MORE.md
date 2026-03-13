@@ -107,7 +107,7 @@ Même si j'ai trouvé l'œuvre visuellement apaisante, j'aurais aimé qu'elle so
 ### Références
 - [site web musée des beaux arts de montréal](https://www.mbam.qc.ca/en/exhibitions/kurt-hentschlager-ever-more/)
 - [site Montréal en lumière](https://montrealenlumiere.com/fr/programmation/admirez-la-toile-numerique-ever-more-de-l-artiste-kurt-hentschlager-e007456)
-- [site de l'oeuvre EVER-MORE dans le portfolio de Kurt Hentschläger](https://kurthentschlager.com/)
+- [site de l'oeuvre EVER-MORE dans le portfolio de Kurt Hentschläger]([https://kurthentschlager.com/](https://kurthentschlager.com/EVER-MORE-2025))
 - Toutes les images sont prises par moi.
 
 
