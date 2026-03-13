@@ -86,7 +86,7 @@ L’œuvre de Kurt Hentschläger est basée sur les effets psychologiques dans u
 - Logiciel de lecture en boucle automatique(MadMapper)
 
   
-[video du l'exposition](https://youtu.be/nLDkYak5WUs](https://youtu.be/nLDkYak5WUs?si=31Qlf0tz-fZaZ1I7))
+[video de l'exposition](https://youtu.be/nLDkYak5WUs](https://youtu.be/nLDkYak5WUs?si=31Qlf0tz-fZaZ1I7))
 > Projection du bâtiment enface
 
 ## Expérience vécue
