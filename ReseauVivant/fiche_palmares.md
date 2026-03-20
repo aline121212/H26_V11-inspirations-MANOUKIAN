@@ -26,6 +26,8 @@
 - Mikael Arseneau
 - Rafael Angon Dubé
 
+    ![image](https://github.com/aline121212/H26_V11-inspirations-MANOUKIAN/blob/main/ReseauVivant/photos_palmares/a-e-f_projet.png)
+
 ---
 # Quand les yeux se croisent
 - Patricia Nassif
