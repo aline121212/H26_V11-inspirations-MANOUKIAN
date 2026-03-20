@@ -30,3 +30,13 @@
 - Félix Lavoie
 - Edelwyn Ledru
 - Manel Yaya
+
+---
+# Terminal
+- Émeryk Bélisle 
+- Ting Yung Lu
+- Mégane Ranger
+- Dana Saavedra-Torrano
+- Elie Daher
+
+
