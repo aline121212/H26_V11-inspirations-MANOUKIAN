@@ -53,6 +53,7 @@
 - Benjamin Ferland
 - Walid Choeur
 
+![image](https://github.com/aline121212/H26_V11-inspirations-MANOUKIAN/blob/main/ReseauVivant/photos_palmares/symboise_projet.jpg)
 ---
 # Océan Rouge
 - Amira Tounekti 
