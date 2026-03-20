@@ -16,8 +16,8 @@
 - Radhouane Kordan
 - Jad Saloumi
 
-  ![image](https://github.com/aline121212/H26_V11-inspirations-MANOUKIAN/blob/main/ReseauVivant/photos_palmares/projet_mission.jpg)
-
+![image](https://github.com/aline121212/H26_V11-inspirations-MANOUKIAN/blob/main/ReseauVivant/photos_palmares/projet_mission.jpg)
+> Projet final dans le studio.
 ---
 # Arbre en face
 - Alexandre Gendron
@@ -26,8 +26,8 @@
 - Mikael Arseneau
 - Rafael Angon Dubé
 
-    ![image](https://github.com/aline121212/H26_V11-inspirations-MANOUKIAN/blob/main/ReseauVivant/photos_palmares/a-e-f_projet.png)
-
+![image](https://github.com/aline121212/H26_V11-inspirations-MANOUKIAN/blob/main/ReseauVivant/photos_palmares/a-e-f_projet.png)
+> Projet final dans le studio.
 ---
 # Quand les yeux se croisent
 - Patricia Nassif
@@ -36,6 +36,8 @@
 - Edelwyn Ledru
 - Manel Yaya
 
+ ![image](https://github.com/aline121212/H26_V11-inspirations-MANOUKIAN/blob/main/ReseauVivant/photos_palmares/q-y-c_projet.jpg)
+> Projet final dans le studio.
 ---
 # Terminal
 - Émeryk Bélisle 
