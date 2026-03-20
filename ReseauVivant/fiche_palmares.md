@@ -22,3 +22,11 @@
 - Matis Ghariani
 - Mikael Arseneau
 - Rafael Angon Dubé
+
+---
+# Quand les yeux se croisent
+- Patricia Nassif
+- Jade Hébert
+- Félix Lavoie
+- Edelwyn Ledru
+- Manel Yaya
