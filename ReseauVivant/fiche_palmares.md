@@ -5,6 +5,7 @@
 - Arbre en face
 - Quand les yeux se croisent
 - Terminal
+- Symbiose
 - Ocean Rouge
 
 ---
@@ -38,5 +39,18 @@
 - Mégane Ranger
 - Dana Saavedra-Torrano
 - Elie Daher
+
+---
+# Symbiose
+- Yannick Chamberland
+- Ryan Dufault
+- Benjamin Ferland
+- Walid Choeur
+
+---
+# Océan Rouge
+- Amira Tounekti 
+- Kristy Moussally
+
 
 
