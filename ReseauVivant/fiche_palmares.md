@@ -7,3 +7,10 @@
 - Terminal
 - Ocean Rouge
 
+---
+# Mission
+- Justin Montpetit
+- Ahmed Kaïssoumi
+- Thearylou Lach
+- Radhouane Kordan
+- Jad Saloumi
