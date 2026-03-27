@@ -138,16 +138,16 @@ Chaque installation utilisait le son et la vidéo comme composantes dans leurs e
 ---
  
 ## Technique ou composante technologique inconnue
-**Projet : Terminal**
+Projet : Terminal
  
-**Composante : La mécanique de manette via QR code sur téléphone**
+### Composante : La mécanique de manette via QR code sur téléphone**
  
-Dans le projet *Terminal*, les joueurs scannent un QR code avec leur téléphone, qui se transforme instantanément en manette de jeu colorée. Cette technologie repose sur une communication en temps réel entre le téléphone du joueur et le serveur du jeu, probablement via **WebSockets** un protocole qui permet une connexion bidirectionnelle et persistante entre un navigateur web et un serveur, sans avoir à recharger la page. Cela permet de transmettre les entrées du joueur (directions, actions) au jeu projeté sur le mur avec un délai quasi nul.
+Dans le projet Terminal, les joueurs devaient scaner une code QR avec leur téléphone, qui se transforme en manette de jeu. Cette technologie est une communication en temps réel entre le téléphone du joueur et le serveur du jeu, j'ai trouver que c'est via NGrok, un protocole qui permet une connexion bidirectionnelle entre un navigateur web et un serveur, sans avoir à recharger la page. Cela permet de transmettre les entrées du joueur (directions, actions) au jeu projeté sur le mur.
  
-Je ne connaissais pas l'utilisation des WebSockets dans un contexte de jeu multijoueur physique avant cette exposition.
+Je ne connaissais pas l'utilisation de NGrok dans un contexte de jeu multijoueur physique avant cette exposition.
  
-> *Source : Documentation GitHub de l'équipe Terminal — [Terminal\_GitHub](https://pythons-5.github.io/Terminal/#/) ; recherches personnelles sur le protocole WebSocket.*
+> *Source : Documentation GitHub de l'équipe Terminal — [Terminal\_GitHub](https://pythons-5.github.io/Terminal/#/) ; recherches personnelles sur NGrok.*
  
 ![Schéma ou photo de la composante]()
-> un croquis de la manette/interface WebSocket. Source à indiquer.*
+> un croquis de la manette/interface NGrok. Source à indiquer.*
 
