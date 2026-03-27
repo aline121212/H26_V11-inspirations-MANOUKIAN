@@ -47,12 +47,16 @@ Avant l'expérimentation, je m'attendais à une installation qui montrait just d
  ![image](https://github.com/aline121212/H26_V11-inspirations-MANOUKIAN/blob/main/ReseauVivant/photos_palmares/q-y-c_projet.jpg)
 > Projet final dans le studio.
 
-**Schéma de l'installation prévue (plantation)**
+Schéma de l'installation prévue (plantation)
 img
 
-##Éxpériance
+## Éxpériance
+
 Avant l'expérimentation, je pensais que ce serait une installation simple avec des écrans qui montrait des animeaux. En la découvrant, j'ai été intriguée par le projet, la mise en scène était vraiment , avec les lumières  de chaque côté de la structure, des guirlandes de fleurs et les vieux téléviseurs  sa crée une ambiance de magie. Savoir que les caméras captaient mon regard et l'intégraient en temps réel m'a donné un sentiment de faire partie de l'œuvre. C'est l'installation qui m'a le plus touchée visuellement à cause des composants qui fesait partie du projet.
+
 ---
+
+
 
 
 # Terminal
@@ -67,7 +71,7 @@ Avant l'expérimentation, je pensais que ce serait une installation simple avec 
 
 > Projet final dans le studio.
 
-##Schéma de l'installation prévue (plantation)**
+##Schéma de l'installation prévue (plantation)
 img
 
 ## Éxpériance
@@ -88,7 +92,7 @@ Avant l'expérimentation, je ne savais pas trop à quoi m'attendre avec un jeu d
 ![image](https://github.com/aline121212/H26_V11-inspirations-MANOUKIAN/blob/main/ReseauVivant/photos_palmares/symboise_projet.jpg)
 > Projet final dans le studio.
 
-##Schéma de l'installation prévue (plantation)**
+## Schéma de l'installation prévue (plantation)
 img
 
 ## Éxpériance
@@ -105,11 +109,47 @@ Avant l'expérimentation, l'idée d'une potion chimique à stabiliser m'intrigua
 
 > Projet final dans le studio.
 
-##Schéma de l'installation prévue (plantation)**
+## Schéma de l'installation prévue (plantation)
 img
 
 ## Éxpériance
 Avant l'expérimentation, le thème de la pollution des océans m'intéressait. En expérimentant l'installation, je n'ai pas trop accroché car c'était une sorte de machine arcade avec un joystick, mais je n'ai pas vraiment compris comment le jeu fonctionnait sur le moment que je le jouait. Le concept et le message environnemental étaient bonne, mais l'interface devrait avoir des explications plus claires.
 
 
+
+
+---
+# Réflexion sur ma formation en TIM
+ 
+## 3 cours incontournables du programme
+ 
+En pensant aux compétences nécessaires pour réaliser des projets comme ceux de Réseau Vivant, voici les trois cours qui me semblent les plus essentiels :
+ 
+ ### 1.Expérience multimédia interactive (cours de 3e année) 
+C'est le cours directement responsable de ces projets. Il intègre toutes les compétences acquises durant la formation pour concevoir et réaliser une installation interactive complète, de l'idée à la présentation.
+ 
+ ### 2.Programmation** (JavaScript et autre langage)
+Tous les projets reposent sur du code : détection de mouvement, interaction en temps réel, gestion des entrées (joystick, QR code, caméra). Sans programmation solide, aucun de ces dispositifs ne pourrait fonctionner.
+ 
+ ### 3.Conception sonore et vidéo
+Chaque installation utilisait le son et la vidéo comme composantes centrales de l'expérience immersive : ambiances sonores réactives, projections grand format, effets visuels. La maîtrise de ces outils est indispensable.
+ 
+*(Source : [Grille de cours du programme TIM — Collège Montmorency](https://www.cmontmorency.qc.ca/programmes/nos-programmes-detudes/techniques/techniques-dintegration-multimedia/grille-de-cours/))*
+ 
+---
+ 
+### Technique ou composante technologique inconnue
+ 
+**Projet : Terminal**
+ 
+**Composante : La mécanique de manette via QR code sur téléphone**
+ 
+Dans le projet *Terminal*, les joueurs scannent un QR code avec leur téléphone, qui se transforme instantanément en manette de jeu colorée. Cette technologie repose sur une communication en temps réel entre le téléphone du joueur et le serveur du jeu, probablement via **WebSockets** — un protocole qui permet une connexion bidirectionnelle et persistante entre un navigateur web et un serveur, sans avoir à recharger la page. Cela permet de transmettre les entrées du joueur (directions, actions) au jeu projeté sur le mur avec un délai quasi nul.
+ 
+Je ne connaissais pas l'utilisation des WebSockets dans un contexte de jeu multijoueur physique avant cette exposition.
+ 
+> *Source : Documentation GitHub de l'équipe Terminal — [Terminal\_GitHub](https://pythons-5.github.io/Terminal/#/) ; recherches personnelles sur le protocole WebSocket.*
+ 
+![Schéma ou photo de la composante](https://github.com/aline121212/H26_V11-inspirations-MANOUKIAN/blob/main/ReseauVivant/photos_palmares/projet_mission.jpg)
+> *À remplacer par une photo ou un croquis de la manette/interface WebSocket. Source à indiquer.*
 
