@@ -20,13 +20,16 @@
 - Mikael Arseneau
 - Rafael Angon Dubé
 
+
+
   
 ## Installation finale dans le studio
 ![image](https://github.com/aline121212/H26_V11-inspirations-MANOUKIAN/blob/main/ReseauVivant/photos_palmares/a-e-f_projet.png)
 > Projet final dans le studio.
 
-Schéma de l'installation prévue (plantation)
-img
+leur schéma plantation leur GitHub
+![Schéma plantation](nom_du_fichier.jpg)
+*Source : GitHub Pythons-5, dossier préproduction*
 
 
 ## Éxpériance
@@ -49,8 +52,9 @@ Avant l'expérimentation, je m'attendais à une installation qui montrait just d
  ![image](https://github.com/aline121212/H26_V11-inspirations-MANOUKIAN/blob/main/ReseauVivant/photos_palmares/q-y-c_projet.jpg)
 > Projet final dans le studio.
 
-Schéma de l'installation prévue (plantation)
-img
+leur schéma plantation leur GitHub
+![Schéma plantation](nom_du_fichier.jpg)
+*Source : GitHub Pythons-5, dossier préproduction*
 
 ## Éxpériance
 
@@ -74,8 +78,9 @@ Avant l'expérimentation, je pensais que ce serait une installation simple avec 
 
 > Projet final dans le studio.
 
-##Schéma de l'installation prévue (plantation)
-img
+leur schéma plantation leur GitHub
+![Schéma plantation](nom_du_fichier.jpg)
+*Source : GitHub Pythons-5, dossier préproduction*
 
 ## Éxpériance
 Avant l'expérimentation, je ne savais pas trop à quoi m'attendre avec un jeu de style rétro informatique. En l'expérimentant, j'ai trouvé que c'était vraiment amusant et bien fait car on scanne un QR code avec notre téléphone qui se transforme en manette, puis on s'installe sur des cahises poufs et on joue tous ensemble sur une projection sur le mur. L'aspect collaboratif était très intéresant car il fallait vraiment communiquer avec les autres joueurs pour ne pas se bloquer mutuellement dans certaines niveaux.
@@ -96,8 +101,9 @@ Avant l'expérimentation, je ne savais pas trop à quoi m'attendre avec un jeu d
 ![image](https://github.com/aline121212/H26_V11-inspirations-MANOUKIAN/blob/main/ReseauVivant/photos_palmares/symboise_projet.jpg)
 > Projet final dans le studio.
 
-## Schéma de l'installation prévue (plantation)
-img
+leur schéma plantation leur GitHub
+![Schéma plantation](nom_du_fichier.jpg)
+*Source : GitHub Pythons-5, dossier préproduction*
 
 ## Éxpériance
 Avant l'expérimentation, l'idée d'une potion chimique à stabiliser m'intriguait sans que je sache vraiment ce que ça impliquait. En jouant, j'ai aimé la disposition physique des stations car l'une avec un liquide à mélanger, les autres avec des boutons, ce qui rendait chaque rôle très différent. C'était un jeu dynamique qui demandait beaucoup de coordination entre les joueurs.
@@ -114,8 +120,9 @@ Avant l'expérimentation, l'idée d'une potion chimique à stabiliser m'intrigua
 
 > Projet final dans le studio.
 
-## Schéma de l'installation prévue (plantation)
-img
+leur schéma plantation leur GitHub
+![Schéma plantation](nom_du_fichier.jpg)
+*Source : GitHub Pythons-5, dossier préproduction*
 
 ## Éxpériance
 
