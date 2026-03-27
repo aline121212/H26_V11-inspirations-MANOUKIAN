@@ -164,6 +164,7 @@ Je ne connaissais pas l'utilisation de NGrok dans un contexte de jeu multijoueur
 ![image](https://github.com/aline121212/H26_V11-inspirations-MANOUKIAN/blob/main/ReseauVivant/photos_palmares/terminal_QR.jpg)
 > Podium du code QR du projet Terminal dans le grand studio
 
+![image](https://github.com/aline121212/H26_V11-inspirations-MANOUKIAN/blob/main/ReseauVivant/photos_palmares/source_ngrok.png)
+> interface NGrok.
 
-
-> un croquis de la manette/interface NGrok. Source à indiquer.
+Source: [Site web Ngrok](https://www.cmontmorency.qc.ca/programmes/nos-programmes-detudes/techniques/techniques-dintegration-multimedia/grille-de-cours/](https://ngrok.com/))
