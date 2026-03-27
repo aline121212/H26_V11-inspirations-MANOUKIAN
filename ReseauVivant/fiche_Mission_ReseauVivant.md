@@ -13,9 +13,7 @@ résume
 (photo de l'ensemble de l'installation)
 
 ## Schéma de mise en espace
-leur schéma plantation leur GitHub
-![Schéma plantation](nom_du_fichier.jpg)
-*Source : GitHub Pythons-5, dossier préproduction*
+
 
 ## Ce que je ressens
 **Avant l'expérimentation :**
@@ -28,4 +26,4 @@ leur schéma plantation leur GitHub
 3. 
 
 ## Technique/composante technologique découverte
-(nomme + décris une techno que tu ne connaissais pas)
+
