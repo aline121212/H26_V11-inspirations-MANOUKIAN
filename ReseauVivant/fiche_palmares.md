@@ -147,7 +147,10 @@ Dans le projet Terminal, les joueurs devaient scaner une code QR avec leur tél�
 Je ne connaissais pas l'utilisation de NGrok dans un contexte de jeu multijoueur physique avant cette exposition.
  
 > *Source : Documentation GitHub de l'équipe Terminal — [Terminal\_GitHub](https://pythons-5.github.io/Terminal/#/) ; recherches personnelles sur NGrok.*
- 
-![Schéma ou photo de la composante]()
-> un croquis de la manette/interface NGrok. Source à indiquer.*
 
+![image](https://github.com/aline121212/H26_V11-inspirations-MANOUKIAN/blob/main/ReseauVivant/photos_palmares/terminal_QR.jpg)
+> Podium du code QR du projet Terminal dans le grand studio
+
+
+
+> un croquis de la manette/interface NGrok. Source à indiquer.
