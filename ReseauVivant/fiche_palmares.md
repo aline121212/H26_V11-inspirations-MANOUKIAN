@@ -12,6 +12,7 @@
 
 ---
 # Arbre en face
+---
 ### Créateurs et créatrices : 
 - Alexandre Gendron
 - Mathieu Willett
@@ -36,6 +37,7 @@ Avant l'expérimentation, je m'attendais à une installation qui montrait just d
 
 ---
 # Quand les yeux se croisent
+---
 ### Créateurs et créatrices : 
 - Patricia Nassif
 - Jade Hébert
@@ -54,12 +56,13 @@ img
 
 Avant l'expérimentation, je pensais que ce serait une installation simple avec des écrans qui montrait des animeaux. En la découvrant, j'ai été intriguée par le projet, la mise en scène était vraiment , avec les lumières  de chaque côté de la structure, des guirlandes de fleurs et les vieux téléviseurs  sa crée une ambiance de magie. Savoir que les caméras captaient mon regard et l'intégraient en temps réel m'a donné un sentiment de faire partie de l'œuvre. C'est l'installation qui m'a le plus touchée visuellement à cause des composants qui fesait partie du projet.
 
+
+
+
+
 ---
-
-
-
-
 # Terminal
+---
 ### Créateurs et créatrices : 
 - Émeryk Bélisle 
 - Ting Yung Lu
@@ -82,6 +85,7 @@ Avant l'expérimentation, je ne savais pas trop à quoi m'attendre avec un jeu d
 
 ---
 # Symbiose
+---
 ### Créateurs et créatrices : 
 - Yannick Chamberland
 - Ryan Dufault
@@ -101,6 +105,7 @@ Avant l'expérimentation, l'idée d'une potion chimique à stabiliser m'intrigua
 
 ---
 # Océan Rouge
+---
 ### Créateurs et créatrices : 
 - Amira Tounekti 
 - Kristy Moussally
@@ -113,6 +118,7 @@ Avant l'expérimentation, l'idée d'une potion chimique à stabiliser m'intrigua
 img
 
 ## Éxpériance
+
 Avant l'expérimentation, le thème de la pollution des océans m'intéressait. En expérimentant l'installation, je n'ai pas trop accroché car c'était une sorte de machine arcade avec un joystick, mais je n'ai pas vraiment compris comment le jeu fonctionnait sur le moment que je le jouait. Le concept et le message environnemental étaient bonne, mais l'interface devrait avoir des explications plus claires.
 
 
