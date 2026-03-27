@@ -144,12 +144,12 @@ Chaque installation utilisait le son et la vidéo comme composantes centrales de
  
 **Composante : La mécanique de manette via QR code sur téléphone**
  
-Dans le projet *Terminal*, les joueurs scannent un QR code avec leur téléphone, qui se transforme instantanément en manette de jeu colorée. Cette technologie repose sur une communication en temps réel entre le téléphone du joueur et le serveur du jeu, probablement via **WebSockets** — un protocole qui permet une connexion bidirectionnelle et persistante entre un navigateur web et un serveur, sans avoir à recharger la page. Cela permet de transmettre les entrées du joueur (directions, actions) au jeu projeté sur le mur avec un délai quasi nul.
+Dans le projet *Terminal*, les joueurs scannent un QR code avec leur téléphone, qui se transforme instantanément en manette de jeu colorée. Cette technologie repose sur une communication en temps réel entre le téléphone du joueur et le serveur du jeu, probablement via **WebSockets** un protocole qui permet une connexion bidirectionnelle et persistante entre un navigateur web et un serveur, sans avoir à recharger la page. Cela permet de transmettre les entrées du joueur (directions, actions) au jeu projeté sur le mur avec un délai quasi nul.
  
 Je ne connaissais pas l'utilisation des WebSockets dans un contexte de jeu multijoueur physique avant cette exposition.
  
 > *Source : Documentation GitHub de l'équipe Terminal — [Terminal\_GitHub](https://pythons-5.github.io/Terminal/#/) ; recherches personnelles sur le protocole WebSocket.*
  
-![Schéma ou photo de la composante](https://github.com/aline121212/H26_V11-inspirations-MANOUKIAN/blob/main/ReseauVivant/photos_palmares/projet_mission.jpg)
-> *À remplacer par une photo ou un croquis de la manette/interface WebSocket. Source à indiquer.*
+![Schéma ou photo de la composante]()
+> un croquis de la manette/interface WebSocket. Source à indiquer.*
 
