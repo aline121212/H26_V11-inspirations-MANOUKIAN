@@ -122,24 +122,22 @@ Avant l'expérimentation, le thème de la pollution des océans m'intéressait. 
 # Réflexion sur ma formation en TIM
  
 ## 3 cours incontournables du programme
- 
 En pensant aux compétences nécessaires pour réaliser des projets comme ceux de Réseau Vivant, voici les trois cours qui me semblent les plus essentiels :
  
  ### 1.Expérience multimédia interactive (cours de 3e année) 
-C'est le cours directement responsable de ces projets. Il intègre toutes les compétences acquises durant la formation pour concevoir et réaliser une installation interactive complète, de l'idée à la présentation.
+C'est le cours litéralement responsable de ces projets. Il intègre toutes les compétences acquises durant la formation pour réaliser une installation interactive complète.
  
- ### 2.Programmation** (JavaScript et autre langage)
-Tous les projets reposent sur du code : détection de mouvement, interaction en temps réel, gestion des entrées (joystick, QR code, caméra). Sans programmation solide, aucun de ces dispositifs ne pourrait fonctionner.
+ ### 2.Programmation (JavaScript et autre langage)
+Tous les projets sont basé sur du code : détection de mouvement, interaction en temps réel, gestion (joystick, code QR, caméra).
  
- ### 3.Conception sonore et vidéo
-Chaque installation utilisait le son et la vidéo comme composantes centrales de l'expérience immersive : ambiances sonores réactives, projections grand format, effets visuels. La maîtrise de ces outils est indispensable.
+ ### 3.Conception d’une expérience multimédia
+Chaque installation utilisait le son et la vidéo comme composantes dans leurs expérience :  projections, effets visuels
  
 *(Source : [Grille de cours du programme TIM — Collège Montmorency](https://www.cmontmorency.qc.ca/programmes/nos-programmes-detudes/techniques/techniques-dintegration-multimedia/grille-de-cours/))*
  
 ---
  
-### Technique ou composante technologique inconnue
- 
+## Technique ou composante technologique inconnue
 **Projet : Terminal**
  
 **Composante : La mécanique de manette via QR code sur téléphone**
