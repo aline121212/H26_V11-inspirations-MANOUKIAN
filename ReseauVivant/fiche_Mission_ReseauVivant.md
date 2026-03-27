@@ -1,10 +1,10 @@
 # Fiche de documentation — 
 
 ## Informations générales
-- **Titre :** 
-- **Créateurs/créatrices :** 
-- **Année :** 2026
-- **Exposition :** Réseau Vivant — Collège Montmorency
+- Titre : Mission
+- Créateurs/créatrices : Jad Saloumi, Radhouane Kordan, Thearylou Lach, Ahmed Kaïssoumi, Justin Montpetit
+- Année : 2026
+- Exposition : Réseau Vivant — Collège Montmorency
 
 ## Description de l'œuvre
 résume
