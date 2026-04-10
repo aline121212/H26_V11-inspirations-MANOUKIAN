@@ -1,6 +1,10 @@
 # Fiche de documentation Mission
 
 ![image](https://github.com/aline121212/H26_V11-inspirations-MANOUKIAN/blob/main/ReseauVivant/photos_palmares/projet_mission.jpg?raw=true)
+> Point de vu devant de l'éxposition *Mission*.
+
+![image](https://github.com/aline121212/H26_V11-inspirations-MANOUKIAN/blob/main/ReseauVivant/photos_palmares/entr%C3%A9_expo.jpg?raw=true)
+> Point de vu devant la pancarte de l'éxposition Réseau vivant.
 
 ## Mission
 - Créateurs/créatrices : Jad Saloumi, Radhouane Kordan, Thearylou Lach, Ahmed Kaïssoumi, Justin Montpetit
@@ -25,7 +29,7 @@ Mission Décollage est un jeux qui se joue avec 1 à 3 joueurs devant un panneau
 - Paneax de control
 - Des câbles
 
-## Schéma de mise en espace
+## Croquis de l'oeuvre
 
 
 ## Expérience vécue
