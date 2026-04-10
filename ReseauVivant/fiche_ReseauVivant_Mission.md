@@ -6,7 +6,7 @@
 ![image](https://github.com/aline121212/H26_V11-inspirations-MANOUKIAN/blob/main/ReseauVivant/photos_palmares/entr%C3%A9_expo.jpg?raw=true)
 > Point de vu devant la pancarte de l'éxposition Réseau vivant.
 
-## Mission
+# Mission
 - Créateurs/créatrices : Jad Saloumi, Radhouane Kordan, Thearylou Lach, Ahmed Kaïssoumi, Justin Montpetit
 - Année : 2026
 - Exposition : Réseau Vivant — Collège Montmorency
