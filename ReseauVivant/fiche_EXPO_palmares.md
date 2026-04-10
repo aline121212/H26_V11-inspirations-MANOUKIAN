@@ -104,9 +104,8 @@ Avant l'expérimentation, je ne savais pas trop à quoi m'attendre avec un jeu d
 ![image](https://github.com/aline121212/H26_V11-inspirations-MANOUKIAN/blob/main/ReseauVivant/photos_palmares/symboise_projet.jpg)
 > Projet final dans le studio.
 
-leur schéma plantation leur GitHub
-![Schéma plantation](nom_du_fichier.jpg)
-*Source : GitHub Pythons-5, dossier préproduction*
+![image](https://github.com/aline121212/H26_V11-inspirations-MANOUKIAN/blob/main/ReseauVivant/photos_palmares/croquis_symboise.webp?raw=true)
+> Croquis devant leur exposition. Image de leur github.
 
 ## Éxpériance
 Avant l'expérimentation, l'idée d'une potion chimique à stabiliser m'intriguait sans que je sache vraiment ce que ça impliquait. En jouant, j'ai aimé la disposition physique des stations car l'une avec un liquide à mélanger, les autres avec des boutons, ce qui rendait chaque rôle très différent. C'était un jeu dynamique qui demandait beaucoup de coordination entre les joueurs.
@@ -123,9 +122,9 @@ Avant l'expérimentation, l'idée d'une potion chimique à stabiliser m'intrigua
 
 > Projet final dans le studio.
 
-leur schéma plantation leur GitHub
-![Schéma plantation](nom_du_fichier.jpg)
-*Source : GitHub Pythons-5, dossier préproduction*
+![image](https://github.com/aline121212/H26_V11-inspirations-MANOUKIAN/blob/main/ReseauVivant/photos_palmares/projet_o-r.png?raw=true)
+> Projet final dans le studio.
+
 
 ## Éxpériance
 
