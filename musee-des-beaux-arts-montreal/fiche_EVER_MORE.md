@@ -23,7 +23,6 @@
 ## Type d'exposition
 - Temporaire
 - Éxtérieur
-
 ## Date de ma visite
 21 février 2026
 
