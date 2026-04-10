@@ -125,6 +125,8 @@ Avant l'expérimentation, l'idée d'une potion chimique à stabiliser m'intrigua
 ![image](https://github.com/aline121212/H26_V11-inspirations-MANOUKIAN/blob/main/ReseauVivant/photos_palmares/projet_o-r.png?raw=true)
 > Projet final dans le studio.
 
+![image](https://github.com/aline121212/H26_V11-inspirations-MANOUKIAN/blob/main/ReseauVivant/photos_palmares/croquis_o-r.png?raw=true)
+> Croquis devant leur exposition. Image de leur github.
 
 ## Éxpériance
 
