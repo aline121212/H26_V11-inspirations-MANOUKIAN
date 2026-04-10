@@ -1,13 +1,12 @@
-# Fiche de documentation — 
+# Fiche de documentation 
 
-## Informations générales
-- Titre : Mission
+## Mission
 - Créateurs/créatrices : Jad Saloumi, Radhouane Kordan, Thearylou Lach, Ahmed Kaïssoumi, Justin Montpetit
 - Année : 2026
 - Exposition : Réseau Vivant — Collège Montmorency
 
 ## Description de l'œuvre
-résume
+Mission Décollage est un jeux qui se joue avec 1 à 3 joueurs devant un panneau de contrôle qui controle la fusée. l’objectif est d'attérire sur la destination et atterrire.
 
 ## Installation
 (photo de l'ensemble de l'installation)
@@ -16,9 +15,9 @@ résume
 
 
 ## Ce que je ressens
-**Avant l'expérimentation :**
+Quand j'ai vu l'installation avant l'expérimentation, j'étais intimidé par le jeu parce que ça avait l'air compliqué à cause de tous les boutons sur le panneau. Toutefois, l'aspect visuel de l'installation m'avait plu.
 
-**Après l'expérimentation :**
+Après que j'ai testé l'expérience, je voulais le jouer constamment même si je n'étais pas bonne. Les aspects mécaniques, par exemple des boutons, m'ont surpris car je n'ai jamais vu quelque chose de ce genre.
 
 ## Cours incontournables du programme
 1. 
