@@ -29,8 +29,10 @@
 
 ## Croquis
 ![image](https://github.com/aline121212/H26_V11-inspirations-MANOUKIAN/blob/main/ReseauVivant/photos_palmares/croquis_devant_a-e-f.jpg?raw=true))
-> Croquis devant leur exposition. Image vien de leur github
+> Croquis devant leur exposition. Image de leur github.
 
+![image](https://github.com/aline121212/H26_V11-inspirations-MANOUKIAN/blob/main/ReseauVivant/photos_palmares/croquis_cote_a-e-f.jpg?raw=true)
+> Croquis coté leur exposition. Image de leur github.
 
 ## Éxpériance
 Avant l'expérimentation, je m'attendais à une installation qui montrait just des plantes. En l'essayant, j'ai été vraiment surprise car en faisant glisser ma main sur la toile de projection, des plantes et des visages se sont apparus sur la toile. C'était vraiment intéresant de voir les plants qui poussent avec seulement une geste. Sa m'avait fait un peux rire car aux début j'ai même pas réalisé qu'il y avait une camera qui prenait des photos.
@@ -52,9 +54,10 @@ Avant l'expérimentation, je m'attendais à une installation qui montrait just d
  ![image](https://github.com/aline121212/H26_V11-inspirations-MANOUKIAN/blob/main/ReseauVivant/photos_palmares/q-y-c_projet.jpg)
 > Projet final dans le studio.
 
-leur schéma plantation leur GitHub
-![Schéma plantation](nom_du_fichier.jpg)
-*Source : GitHub Pythons-5, dossier préproduction*
+## Croquis
+![image](https://github.com/aline121212/H26_V11-inspirations-MANOUKIAN/blob/main/ReseauVivant/photos_palmares/croquis_q-y-c.jpeg?raw=true)
+> Croquis devant leur exposition. Image de leur github.
+
 
 ## Éxpériance
 
@@ -79,9 +82,8 @@ Avant l'expérimentation, je pensais que ce serait une installation simple avec 
 ![image](https://github.com/aline121212/H26_V11-inspirations-MANOUKIAN/blob/main/ReseauVivant/photos_palmares/jeux_terminal.jpg?raw=true)
 > Projet final dans le studio.
 
-leur schéma plantation leur GitHub
-![Schéma plantation](nom_du_fichier.jpg)
-*Source : GitHub Pythons-5, dossier préproduction*
+![image](https://github.com/aline121212/H26_V11-inspirations-MANOUKIAN/blob/main/ReseauVivant/photos_palmares/croquis_terminal.png?raw=true)
+> Croquis devant leur exposition. Image de leur github.
 
 ## Éxpériance
 Avant l'expérimentation, je ne savais pas trop à quoi m'attendre avec un jeu de style rétro informatique. En l'expérimentant, j'ai trouvé que c'était vraiment amusant et bien fait car on scanne un QR code avec notre téléphone qui se transforme en manette, puis on s'installe sur des cahises poufs et on joue tous ensemble sur une projection sur le mur. L'aspect collaboratif était très intéresant car il fallait vraiment communiquer avec les autres joueurs pour ne pas se bloquer mutuellement dans certaines niveaux.
