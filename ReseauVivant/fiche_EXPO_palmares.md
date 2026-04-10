@@ -76,6 +76,7 @@ Avant l'expérimentation, je pensais que ce serait une installation simple avec 
 
 ## Installation finale dans le studio
 
+![image](https://github.com/aline121212/H26_V11-inspirations-MANOUKIAN/blob/main/ReseauVivant/photos_palmares/jeux_terminal.jpg?raw=true)
 > Projet final dans le studio.
 
 leur schéma plantation leur GitHub
