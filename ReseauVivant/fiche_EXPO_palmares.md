@@ -27,9 +27,9 @@
 ![image](https://github.com/aline121212/H26_V11-inspirations-MANOUKIAN/blob/main/ReseauVivant/photos_palmares/a-e-f_projet.png)
 > Projet final dans le studio.
 
-leur schéma plantation leur GitHub
-![Schéma plantation](nom_du_fichier.jpg)
-*Source : GitHub Pythons-5, dossier préproduction*
+## Croquis
+![image](https://github.com/aline121212/H26_V11-inspirations-MANOUKIAN/blob/main/ReseauVivant/photos_palmares/croquis_devant_a-e-f.jpg?raw=true))
+> Croquis devant leur exposition. Image vien de leur github
 
 
 ## Éxpériance
