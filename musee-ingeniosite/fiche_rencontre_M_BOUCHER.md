@@ -7,3 +7,7 @@ La première installation était le *Garage Bombardien* qui était une expérien
 Ensuite, il nous a parlé d'une deuxième installation qui s'appelle *Changer de cap*. Celle-ci était une installation interactive qui nous fait faire la mélodie du métro en cliquant des boutons associés à différents niveaux de herts. Quand on le réusit, on  resoir un retour visuel de lumière sur les rails du metro. Ce ci était réalisé 
 
 En conclusion, j'ai vraiment aprécier cette renconre car j'ai eu l'occasion d'apprende la création d'un installation multimédia. De plus, sa m,a fait découvrir des différent logiciels que les personne dans cette industrie utilisant par exemple max msp, touch desgner et pure data.
+
+
+![image](https://github.com/aline121212/H26_V11-inspirations-MANOUKIAN/blob/main/musee-ingeniosite/photos/instalation_meto_tablette.jpeg?raw=true)
+> *Changer de cap* tabelette avec des boutons assosier à des niveaux de herts
