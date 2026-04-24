@@ -1,6 +1,6 @@
 # Rencontre musée ingeniosité
 
-Dans le cadre du cour oeuvres et dispositifs multimédias en exposition on a eu une rencontre avec Martin Boucher, un spésaialiste en ce qui concerne le motion designe, la conception sonor et la perogramation du Musée de l'ingéniosité J.Armand-Bombardier. Il nous a expliqué le fonctionnement de 2 installations. 
+Dans le cadre du cour oeuvres et dispositifs multimédias en exposition, on a eu une rencontre avec Martin Boucher, un spésaialiste en ce qui concerne le motion designe, la conception sonor et la perogramation bref, le multimédia, du Musée de l'ingéniosité J.Armand-Bombardier. Il nous a expliqué le fonctionnement de 2 installations. 
 
 D'abord, da première installation était le *Garage Bombardien* qui était une expérience immersive avec un spectacle de lumière et avec un projecteur laser. Il y avait des haut-parleurs en mode stéréo. Les séquences étaient contrôlées à travers une tablette de contrôle qui démarrait l'expérience.  
 
