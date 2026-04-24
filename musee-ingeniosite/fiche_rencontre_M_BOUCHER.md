@@ -11,7 +11,3 @@ En conclusion, j'ai vraiment aprécier cette renconre car j'ai eu l'occasion d'a
 
 ![image](https://github.com/aline121212/H26_V11-inspirations-MANOUKIAN/blob/main/musee-ingeniosite/photos/instalation_meto_tablette.jpeg?raw=true)
 > *Changer de cap* tabelette avec des boutons assosier à des niveaux de herts
-
-
-![image](https://github.com/aline121212/H26_V11-inspirations-MANOUKIAN/blob/main/musee-ingeniosite/photos/carte_explicatif_garage.jpeg?raw=true)
-> Cartelle explicatif de l'instalation *Garage Bombardien* 
