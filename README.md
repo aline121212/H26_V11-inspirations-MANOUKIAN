@@ -1,3 +1,3 @@
 # H26_V11-inspirations-MANOUKIAN
 
-Ce dossier contient mon compte-rendu du conférence avec Martin Boucher et les images des instalations
+Ce dossier contient mes documentation de mes visites
