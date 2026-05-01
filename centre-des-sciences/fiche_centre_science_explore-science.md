@@ -12,6 +12,9 @@
 Montréal, QC H2Y 4B2
 Canada
 
+![image](https://github.com/aline121212/H26_V11-inspirations-MANOUKIAN/blob/main/centre-des-sciences/photos/panneaux_entree.jpg?raw=true)
+> Point de vu devant la panneaux de crédit à l'entré 
+
 ## Type d'exposition
 - Permanante
 - Intérieur
@@ -42,7 +45,7 @@ L’œuvre du Centre des sciences de Montréal est une instalation basée sur l�
 ---
 # Cartel et texte explicatif
 ![image](https://github.com/aline121212/H26_V11-inspirations-MANOUKIAN/blob/main/centre-des-sciences/photos/cartel_description.jpg?raw=true)
-> Cartel descriptive de l'oeuvre
+> Cartel descriptive de l'oeuvre.
 
 
 
@@ -53,13 +56,22 @@ L’œuvre du Centre des sciences de Montréal est une instalation basée sur l�
 - Projecteur vidéo
 - Des câbles
 - Tablette/Interface
+  
+![image](https://github.com/aline121212/H26_V11-inspirations-MANOUKIAN/blob/main/centre-des-sciences/photos/tablette.jpg?raw=true)
+> Tablette pour controler les commandes.
+
+![image](https://github.com/aline121212/H26_V11-inspirations-MANOUKIAN/blob/main/centre-des-sciences/photos/source_lumiere.jpg?raw=true)
+> Source de lumière pour la projection de lumière.
+
 
   
 ## Type d'installation
 - Intéractive
 
-### Croquis de l'oeuvre
 
+## Croquis de l'oeuvre
+![image](https://github.com/aline121212/H26_V11-inspirations-MANOUKIAN/blob/main/centre-des-sciences/photos/coquis_instalation.png?raw=true)
+>Croquis de l'instalation
 
 ## Liste des éléments 
 - Projecteur lumière
@@ -80,16 +92,8 @@ Ce qui m'a le plus plu, c'est la projection des ombres des figures sur le mur. J
 Même si j'ai trouvé l'œuvre visuellement apaisante, j'aurais aimé qu'elle soit accompagnée d'une musique ambiante, quelque chose de naturel qui correspond aux figures. De plus, selon moi, l'installation aurait été plus complète s'il y avait plus d'options d'objets à projeter et à interchanger. Si je devais créer une installation similaire, j'intégrerais un aspect sonore.
 
 
-
-
-### Références
-- Toutes les images sont prises par moi.
-
-
-
 ![image](https://github.com/aline121212/H26_V11-inspirations-MANOUKIAN/blob/main/centre-des-sciences/photos/eloigne_instalation.jpg?raw=true)
 
-
-
-
-
+### Références
+[site web du Centre des sciences de Montréal](https://www.centredessciencesdemontreal.com/exposition-permanente/explore)
+- Toutes les images sont prises par moi.
