@@ -185,3 +185,9 @@ Je ne connaissais pas l'utilisation de NGrok dans un contexte de jeu multijoueur
 > interface NGrok.
 
 Source: [Site web Ngrok](https://www.cmontmorency.qc.ca/programmes/nos-programmes-detudes/techniques/techniques-dintegration-multimedia/grille-de-cours/](https://ngrok.com/))
+
+
+
+### Références
+- [site de l'exposition](https://tim-montmorency.com/2026/)
+- Les images sont pris par le github des étudiants et par moi
