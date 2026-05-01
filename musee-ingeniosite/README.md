@@ -1,1 +1,1 @@
-Ce dossier contient les images de l'installation dans le musée de l'ingéniosité.
+Ce dossier contient mon compte-rendu du conférence avec Martin Boucher et les images des instalations
